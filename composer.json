@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/virustotal-php-client",
     "description": "A VirusTotal Client for PHP",
-    "keywords": ["api", "Rulerr", "Rulerr-virustotal", "virustotal", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "virustotal", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
